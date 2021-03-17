@@ -1,0 +1,107 @@
+1615473956603	geckodriver	INFO	Listening on 127.0.0.1:51207
+1615473956656	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWmq3or"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615473984890	Marionette	INFO	Listening on port 45351
+1615473985172	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615473985284	Marionette	ERROR	[18] No reply from Marionette:Register
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1615473995649	Marionette	INFO	Stopped listening on port 45351
+1615475001542	geckodriver	INFO	Listening on 127.0.0.1:53999
+1615475002579	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewfMrvr"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+JavaScript error: resource://activity-stream/lib/ASRouterNewTabHook.jsm, line 61: TypeError: this._router is null
+console.warn: services.settings: main/fxmonitor-breaches sync interrupted by shutdown
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+1615475059832	geckodriver	INFO	Listening on 127.0.0.1:38899
+1615475059886	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZah2UP"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615475075091	Marionette	INFO	Listening on port 44641
+1615475075398	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615475075490	Marionette	ERROR	[18] No reply from Marionette:Register
+JavaScript warning: https://faidherbe-lille.enthdf.fr/wp-content/themes/ent-ac-lille/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1615475154945	Marionette	INFO	Stopped listening on port 44641
+1615475177055	geckodriver	INFO	Listening on 127.0.0.1:48445
+1615475177162	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezeJqFY"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615475198853	Marionette	INFO	Listening on port 44087
+1615475199572	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615475199656	Marionette	ERROR	[15] No reply from Marionette:Register
+1615475238890	Marionette	INFO	Stopped listening on port 44087
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1615475273311	geckodriver	INFO	Listening on 127.0.0.1:45021
+1615475273373	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelJqiqZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615475291795	Marionette	INFO	Listening on port 39033
+1615475292007	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615475292081	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://faidherbe-lille.enthdf.fr/wp-content/themes/ent-ac-lille/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1615475324272	Marionette	INFO	Stopped listening on port 39033
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1615475359028	geckodriver	INFO	Listening on 127.0.0.1:35665
+1615475359075	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiled4il2L"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615475379052	Marionette	INFO	Listening on port 34475
+1615475379267	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615475379352	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://faidherbe-lille.enthdf.fr/wp-content/themes/ent-ac-lille/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1615475500295	Marionette	INFO	Stopped listening on port 34475
+1615475741685	geckodriver	INFO	Listening on 127.0.0.1:44275
+1615475742665	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemlUPpJ"
+1615475762049	geckodriver	INFO	Listening on 127.0.0.1:35365
+1615475762075	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7OwW7w"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 773))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 422))
+1615475784288	Marionette	INFO	Listening on port 43353
+1615475784605	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615475784692	Marionette	ERROR	[18] No reply from Marionette:Register
+JavaScript warning: https://faidherbe-lille.enthdf.fr/wp-content/themes/ent-ac-lille/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1615475907171	Marionette	INFO	Stopped listening on port 43353
+1615475997805	geckodriver	INFO	Listening on 127.0.0.1:52359
+1615475998117	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilei8z7iW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615476031848	Marionette	INFO	Listening on port 32975
+1615476032363	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615476032482	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript warning: https://faidherbe-lille.enthdf.fr/wp-content/themes/ent-ac-lille/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1615476079834	geckodriver	INFO	Listening on 127.0.0.1:48989
+1615476079903	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile93UWTC"
+Exiting due to channel error.
+Exiting due to channel error.
+1615476154298	Marionette	INFO	Stopped listening on port 32975
+1615476236200	geckodriver	INFO	Listening on 127.0.0.1:58367
+1615476236332	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilex7eLSI"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615476268397	Marionette	INFO	Listening on port 44873
+1615476268708	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615476268976	Marionette	ERROR	[18] No reply from Marionette:Register
+JavaScript warning: https://faidherbe-lille.enthdf.fr/wp-content/themes/ent-ac-lille/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1615476291064	Marionette	INFO	Stopped listening on port 44873
+1615476461873	geckodriver	INFO	Listening on 127.0.0.1:58699
+1615476461935	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileebzn1d"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615476480268	Marionette	INFO	Listening on port 32887
+1615476481642	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615476481800	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://faidherbe-lille.enthdf.fr/wp-content/themes/ent-ac-lille/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1615476519149	Marionette	INFO	Stopped listening on port 32887
+1615476725381	geckodriver	INFO	Listening on 127.0.0.1:50359
+1615476725409	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileavPEee"
+Exiting due to channel error.
